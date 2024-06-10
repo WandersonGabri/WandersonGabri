@@ -1,9 +1,13 @@
-### Ola! Eu sou o Wanderson Gabriel 👋
+## Ola! Eu sou o Wanderson Gabriel 👋
+Me formando em Engenharia de Software na UNICV - Centro Universiário Cidade Verde
+<br/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanderson-gabriel-025593227/)
+<hr style="border: 0.5px solid rgba(0, 0, 0, 0.2);" />
 
+### Git status:
 ![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api?username=wandersongabri&show_icons=true&theme=radical)<br/>
 
+<hr style="border: 0.5px solid rgba(0, 0, 0, 0.2);" />
 
 ### Tecnologias que costumo mais usar:
 
@@ -18,5 +22,8 @@
 <div/>
 <br/>
   
-### Contato:
-wandersonnavarro15569@gmail.com :email:
+<hr style="border: 0.5px solid rgba(0, 0, 0, 0.2);" />
+  
+### Formas de contato:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanderson-gabriel-025593227/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wandersonnavarro15569@gmail.com)
