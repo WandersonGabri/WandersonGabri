@@ -4,10 +4,6 @@ Me formando em Engenharia de Software na UNICV - Centro Universiário Cidade Ver
 
 <hr style="border: 0.5px solid rgba(0, 0, 0, 0.2);" />
 
-### Git status:
-![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api?username=wandersongabri&show_icons=true&theme=radical)<br/>
-
-<hr style="border: 0.5px solid rgba(0, 0, 0, 0.2);" />
 
 ### Tecnologias que costumo mais usar:
 
